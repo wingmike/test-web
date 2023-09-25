@@ -1,0 +1,6 @@
+body {margin:0;
+    font-family:Arial;
+    background: linear-gradient(to top, rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(ebb.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;}
